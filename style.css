@@ -175,10 +175,11 @@ overflow: hidden;
        margin-bottom:20px;
    }
    .grid-item{
-       margin: 5px;
+       margin: 20px;
    }
    .grid-2{
        overflow: hidden;
+        margin: 20px;
    }
    .grid-2 h2{
     overflow: hidden;
