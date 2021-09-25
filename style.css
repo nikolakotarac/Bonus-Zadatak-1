@@ -14,7 +14,7 @@ body{
     display: grid;
     grid-gap: 20px;
     grid-template-columns: 45vw 14vw;
-    margin-top:70px;
+    margin:70px 0;
 }
 .grid-1{
  display:grid;
@@ -81,11 +81,11 @@ padding: 10px;
 
 .item-text-2 h4{
 font-style: normal;
-font-weight: 500;
+font-weight: 600;
 line-height: 18px;
 color: #CFCFCF;
 mix-blend-mode: normal;
-opacity: 0.7;
+
 }
 .img-pattern{
     position: absolute;
@@ -112,19 +112,18 @@ border-radius: 8px;
 .grid-item-3 h3{
     font-style: normal;
 font-weight: 600;
-font-size: 20px;
+font-size: 13px;
 line-height: 24px;
 
 color: #48556A;
 }
 .grid-item-3 h4{
     font-style: normal;
-font-weight: 500;
+font-weight: 600;
 font-size: 13px;
 line-height: 18px;
 color: #48556A;
 mix-blend-mode: normal;
-opacity: 0.7;
 }
 .grid-item-3 h2{
     color:#48556A;
@@ -153,12 +152,11 @@ grid-column: 2/4;
    }
    .grid-2 h4{
 font-style: normal;
-font-weight: 500;
+font-weight: 600;
 font-size: 13px;
 line-height: 18px;
 color: #48556A;
 mix-blend-mode: normal;
-opacity: 0.7;
 overflow: hidden;
   }
 
@@ -171,9 +169,7 @@ overflow: hidden;
     .container{
         display: inline;
     }
-   .grid-2{
-       margin-bottom:20px;
-   }
+  
    .grid-item{
        margin: 20px;
    }
